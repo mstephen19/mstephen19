@@ -17,19 +17,19 @@ Originally I'm from the U.S., but now am living in the Czech Republic.
 - Redux & Context API
 - Node.js
 - Styled Components
-- IndexedDB
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - Material UI
 - Express.js
 - Fastify
-- GraphQL & Apollo 🕸️
+- GraphQL & Apollo (Apollo Server + Apollo Client) 🕸️
 - MongoDB & Mongoose
 - MySQL/PostgreSQL & Sequelize
 - Jest 🧪
-- Socket.io
+- Socket.io (Socket.io Server + Socket.io Client)
 - Docker 🐳
 - Kubernetes **(a bit of experience)**
 - AWS **(a bit of experience)**
-- Worker Threads
+- [Worker Threads](https://nodejs.org/api/worker_threads.html)
 - Functional programming ⚙️
 - Microservice architecture
 
@@ -46,9 +46,32 @@ Originally I'm from the U.S., but now am living in the Czech Republic.
 - Leadership 
 - Professionality
 
+### Experience 💪
+
+I have experience with:
+
+- Building performant RESTful and GraphQL APIs communicating with relational and non-relational databases.
+- Creating scalable front-end applications and dashboards communicating with both internal and external APIs.
+- Writing & maintaining various backend-oriented packages, libraries, and utilities for Node.js.
+- Developing different types of automation software.
+
 My most recent public project is a multi-threading library for called [Threadz](https://github.com/mstephen19/threadz), which makes it easy to run safe multi-threaded and memory-sharing code in Node.js.
 
-#### Contact me
+### What I'm learning now 📚
+
+At the moment, I'm focusing on improving my skills in the following areas:
+
+- PostgreSQL
+- React (there's always something to learn. Hyper-scalable design patterns mostly.)
+- Material UI
+- [Haskell](https://www.haskell.org/) (monad heaven)
+- AWS
+
+### I'm currently excited about...
+
+[Bun.js](https://bun.sh/) is extremely excited, despite it still being in its infancy. It's an incredibly performant runtime, especially compared to Node when rendering React (server-side).
+
+#### Contact me 💬
 
 Reach me at my [email](mailto:matthiasvstephens@gmail.com), or send me a message on [LinkedIn](https://www.linkedin.com/in/mstephen19/).
 
