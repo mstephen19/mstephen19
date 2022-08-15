@@ -52,6 +52,7 @@ I have experience with:
 
 - Building performant RESTful and GraphQL APIs communicating with relational and non-relational databases.
 - Creating scalable front-end applications and dashboards communicating with both internal and external APIs.
+- Modelling data schemas and relationships between them for optimized database queries.
 - Writing & maintaining various backend-oriented packages, libraries, and utilities for Node.js.
 - Developing different types of automation software.
 
