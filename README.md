@@ -35,6 +35,7 @@ Originally I'm from the U.S., but now am living in the Czech Republic.
 
 ### Soft skills:
 
+- Quick to learn
 - Communication 🗣️
 - Time management ⌚
 - Flexibility 🤸
