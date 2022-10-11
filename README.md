@@ -57,7 +57,7 @@ I have experience with:
 - Writing & maintaining various backend-oriented packages, libraries, and utilities for Node.js.
 - Developing different types of automation software.
 
-My most recent public project is a multi-threading library for called [Threadz](https://github.com/mstephen19/threadz), which makes it easy to run safe multi-threaded and memory-sharing code in Node.js.
+My most recent public project is a multi-threading library for Node.js called [Nanolith]([https://github.com/mstephen19/threadz](https://github.com/mstephen19/nanolith)), which makes it easier than ever to create nanoservices for a performant API.
 
 ### What I'm learning now 📚
 
