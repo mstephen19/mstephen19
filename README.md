@@ -42,7 +42,7 @@ Originally I'm from the U.S., but now am living in the Czech Republic.
 - Self-motivation 🏋️
 - Outgoing 
 - Adaptability
-- Team-orienteed 🔥
+- Team-oriented 🔥
 - Planning & pseudo-code 🗒️
 - Leadership 
 - Professionality
@@ -65,7 +65,6 @@ At the moment, I'm focusing on improving my skills in the following areas:
 
 - PostgreSQL
 - React (there's always something to learn. Hyper-scalable design patterns mostly.)
-- Material UI
 - [Haskell](https://www.haskell.org/) (monad heaven)
 - AWS
 
