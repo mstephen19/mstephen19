@@ -13,6 +13,8 @@ Originally I'm from the U.S., but now am living in the Czech Republic.
 ### Hard skills:
 
 - TypeScript ✨ **(I am a super-enthusiast for TypeScript)**
+- Golang
+- Redis
 - React.js + Next.js ⚛️
 - Redux & Context API
 - Node.js
@@ -26,6 +28,7 @@ Originally I'm from the U.S., but now am living in the Czech Republic.
 - MySQL/PostgreSQL & Sequelize
 - Jest 🧪
 - Socket.io (Socket.io Server + Socket.io Client)
+- Server-side events
 - Docker 🐳
 - Kubernetes **(a bit of experience)**
 - AWS **(a bit of experience)**
@@ -65,7 +68,7 @@ At the moment, I'm focusing on improving my skills in the following areas:
 
 - PostgreSQL
 - React (there's always something to learn. Hyper-scalable design patterns mostly.)
-- [Haskell](https://www.haskell.org/) (monad heaven)
+- Golang
 - AWS
 
 ### I'm currently excited about...
