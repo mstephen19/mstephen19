@@ -73,7 +73,7 @@ At the moment, I'm focusing on improving my skills in the following areas:
 
 ### I'm currently excited about...
 
-[Bun.js](https://bun.sh/) is extremely exciting, despite it still being in its infancy. It's an incredibly performant runtime, especially compared to Node when rendering React (server-side).
+Golang! It's a fantastic language!
 
 #### Contact me 💬
 
