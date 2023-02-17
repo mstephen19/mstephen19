@@ -8,7 +8,7 @@ I used to work for [Apify](https://apify.com/) as an Automation Engineer + Senio
 
 Before software development, I had a job as an English teacher in Poland. Being a teacher was humbling, and allowed for me to refine my communication skills which I use daily in my current career to communicate complex ideas to my colleagues and coordinate and plan projects.
 
-Originally I'm from the U.S., but now am living in the Czech Republic.
+<!-- Originally I'm from the U.S., but now am living in the Czech Republic. -->
 
 ### Hard skills:
 
