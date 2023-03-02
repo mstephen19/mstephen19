@@ -6,7 +6,7 @@ I'm a full-stack developer with a knack for learning new things very quickly, an
 
 Right now, I work as a Full Stack Engineer at [Vobile](https://vobile.com).
 
-I used to work for [Apify](https://apify.com/) as an Automation Engineer + Senior Developer Advocate. My duties included writing & testing automation software and web crawlers for big-ticket customers, writing internal tooling & libraries, maintaining existing software, communicating & planning with customers, managing projects, and pushing the company's developer community forward.
+I used to work for [Apify](https://apify.com/) as an Automation Engineer + Senior Developer Advocate. My duties included writing automation software and web crawlers for big-ticket customers, writing internal tooling & libraries, maintaining existing software, communicating & planning with customers, managing projects, and pushing the company's developer community forward.
 
 Before software development, I had a job as an English teacher in Poland. Being a teacher was humbling, and allowed for me to refine my communication skills which I use daily in my current career to communicate complex ideas to my colleagues and coordinate and plan projects.
 
