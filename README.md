@@ -4,7 +4,7 @@
 
 I'm a full-stack developer with a knack for learning new things very quickly, and a constant craving to learn new technologies and concepts (a developer never stops learning). I studied at UC Berkeley with their Full-Stack Flex bootcamp, where I not only learned web-development from the ground up (from CSS + jQuery all the way to complex applications with Apollo, React and Redux), but also how to effectively communicate in a development environment..
 
-I used to work for [Apify](https://apify.com/) as an Automation Engineer + Senior Developer Advocate. My duties included writing automation software and web crawlers for big-ticket customers, writing internal tooling & libraries, maintaining existing software, communicating & planning with customers, managing projects, and pushing the company's developer community forward.
+I used to work for [Apify](https://apify.com/) as a Software Engineer & Senior Developer Advocate. My duties included writing custom microservices, data-pipeline solutions, and automation software for big-ticket customers, writing internal tooling & libraries, maintaining existing software, communicating & planning with customers, managing projects, and pushing the company's developer community forward.
 
 Before software development, I had a job as an English teacher in Poland. Being a teacher was humbling, and allowed for me to refine my communication skills which I use daily in my current career to communicate complex ideas to my colleagues and coordinate and plan projects.
 
