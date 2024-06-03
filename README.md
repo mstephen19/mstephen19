@@ -34,7 +34,6 @@ Before software development, I had a job as an English teacher in Poland. Being 
 - Server-side events
 - Docker 🐳
 - Kubernetes **(a bit of experience)**
-- AWS **(a bit of experience)**
 - [Worker Threads](https://nodejs.org/api/worker_threads.html)
 - Functional programming ⚙️
 - Microservice architecture
