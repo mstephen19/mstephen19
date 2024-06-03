@@ -57,10 +57,12 @@ Before software development, I had a job as an English teacher in Poland. Being 
 
 I have experience with:
 
-- Building performant RESTful and GraphQL APIs communicating with relational and non-relational databases.
+- Architecting full-stack software solutions in distributed systems, following agile methodologies.
+- Designing scalable microservices, including RESTful and GraphQL APIs.
+- Working with RDBMS and non-relational databases.
 - Creating scalable front-end applications and dashboards communicating with both internal and external APIs.
-- Modelling data schemas and relationships between them for optimized database queries.
-- Writing & maintaining various backend-oriented packages, libraries, and utilities for Node.js.
+- Modeling data and relationships between schemas them for optimized database queries.
+- Writing & maintaining various backend-oriented packages, libraries, and utilities.
 - Developing different types of automation software.
 
 My most recent public project is a multi-threading library for Node.js called [Nanolith](https://github.com/mstephen19/nanolith), which makes it easier than ever to create a performant API with nanoservices.
@@ -69,10 +71,7 @@ My most recent public project is a multi-threading library for Node.js called [N
 
 At the moment, I'm focusing on improving my skills in the following areas:
 
-- PostgreSQL
-- React (there's always something to learn. Scalable design patterns mostly.)
-- Golang
-- AWS
+- Machine Learning
 
 ### I'm currently excited about...
 
